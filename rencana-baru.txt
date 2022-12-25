@@ -4,5 +4,8 @@ css
 *membuat css
 javascript
 php
+*laravel 8
 laravel
+*laravel 9
 livewire
+pyton
