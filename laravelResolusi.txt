@@ -1,5 +1,4 @@
 membuat laravel livewire
 merubah file yang baru saja di buat
 menambahkan file baru
-merubah file yang tadi
 menghapus file barusan
