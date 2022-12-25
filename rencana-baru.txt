@@ -10,3 +10,6 @@ laravel
 *laravel 9
 livewire
 pyton
+c#
+c++
+dashboard
