@@ -1,12 +1,11 @@
 html
 *membuat baru
+*framework
 css
 *membuat css
 javascript
-*alert
 php
-*laravel 8
+*database
 laravel
-*laravel 9
+*migrate
 livewire
-pyton
