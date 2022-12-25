@@ -1,8 +1,11 @@
 html
 *membuat baru
+*framework
 css
 *membuat css
 javascript
 php
+*database
 laravel
+*migrate
 livewire
