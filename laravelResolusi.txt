@@ -1,2 +1,3 @@
 membuat laravel livewire
 merubah file yang baru saja di buat
+menambahkan file baru
