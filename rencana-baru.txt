@@ -3,6 +3,7 @@ html
 css
 *membuat css
 javascript
+*alert
 php
 *laravel 8
 laravel
