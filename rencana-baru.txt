@@ -3,6 +3,10 @@ html
 css
 *membuat css
 javascript
+*alert
 php
+*laravel 8
 laravel
+*laravel 9
 livewire
+pyton
